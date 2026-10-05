@@ -62,7 +62,7 @@ Material:
     - _QueueOffset: 0
     - _RimSize: 0.25
     - _RimSoftness: 0.03
-    - _RimStrength: 0.4
+    - _RimStrength: 0.461
     - _SHADOWS_SOFT: 1
     - _ShadowHue: 0.72
     - _ShadowHueShift: 0.2
@@ -71,7 +71,7 @@ Material:
     - _ShadowScale: 1
     - _ShadowThreshold: 0.35
     - _ShadowValue: 0.6
-    - _SpecSize: 0.006
+    - _SpecSize: 0.0106
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 0}
     - _RampedDiffuseValues: {r: 0.2, g: 0.4, b: 1, a: 0}

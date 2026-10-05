@@ -67,8 +67,8 @@ Material:
     - _ShadowHue: 0.72
     - _ShadowHueShift: 0.2
     - _ShadowMinSaturation: 0.15
-    - _ShadowPatternDarkness: 0.6
-    - _ShadowScale: 12
+    - _ShadowPatternDarkness: 0.447
+    - _ShadowScale: 10.35
     - _ShadowThreshold: 0.2
     - _ShadowValue: 0.8
     - _SpecSize: 0
